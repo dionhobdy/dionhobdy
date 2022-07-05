@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **IBM Full Stack Software Developer certification.**
 
-- 📫 How to reach me **devdionhobdy@gmail.com**
-
 - ⚡ Fun fact **I originally came from a background in Theatre/Film acting.**
 
 <h3 align="left">Connect with me:</h3>
