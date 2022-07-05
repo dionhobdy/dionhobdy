@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dion Hobdy!</h1>
 <h3 align="center">A passionate full stack developer from California</h3>
 
-- - 😄 Pronouns: He/Him/His
+- 😄 Pronouns: He/Him/His
 
 - 🌱 I’m currently learning **IBM Full Stack Software Developer certification.**
 
